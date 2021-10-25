@@ -1,0 +1,16 @@
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\bin\Debug\net5.0\myApp.exe
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\bin\Debug\net5.0\myApp.deps.json
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\bin\Debug\net5.0\myApp.runtimeconfig.json
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\bin\Debug\net5.0\myApp.runtimeconfig.dev.json
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\bin\Debug\net5.0\myApp.dll
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\bin\Debug\net5.0\ref\myApp.dll
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\bin\Debug\net5.0\myApp.pdb
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\obj\Debug\net5.0\myApp.csproj.AssemblyReference.cache
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\obj\Debug\net5.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\obj\Debug\net5.0\myApp.AssemblyInfoInputs.cache
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\obj\Debug\net5.0\myApp.AssemblyInfo.cs
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\obj\Debug\net5.0\myApp.csproj.CoreCompileInputs.cache
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\obj\Debug\net5.0\myApp.dll
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\obj\Debug\net5.0\ref\myApp.dll
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\obj\Debug\net5.0\myApp.pdb
+C:\Users\Ian\git\prime\tier3\dotnet-hello-world\myApp\obj\Debug\net5.0\myApp.genruntimeconfig.cache
